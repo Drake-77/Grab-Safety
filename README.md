@@ -9,5 +9,4 @@ This respiratory consists convolutional1D machine learning model on Anomalies De
 3. Matplotlib - 3.0.3
 4. Keras - 2.2.4
 5. scikit-learn - 0.20.3
-
-# Convolutional1D Model
+ 
