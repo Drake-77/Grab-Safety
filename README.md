@@ -1,4 +1,4 @@
-# Safety Detection Algorithm for speeding vehicle on the road
+# Safety Detection Algorithm for Speeding Vehicle 
 
 # Getting started
 This respiratory consists convolutional1D machine learning model on Anomalies Detection. 
@@ -10,4 +10,4 @@ This respiratory consists convolutional1D machine learning model on Anomalies De
 4. Keras - 2.2.4
 5. scikit-learn - 0.20.3
 
-# Convolutional1D 
+# Convolutional1D Model
